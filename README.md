@@ -1,8 +1,4 @@
 # bio-stock-picker
-<<<<<<< HEAD
-# brick-breaker-game
-# brick-breaker-game
-=======
 
 Niyathi Chakrapani
 Anshuman Konuru
@@ -52,6 +48,5 @@ this number is overwhelmingly positive.
 
 To launch the project, simply build/run it and you will see the step outputs, as well as the final output of how much
 money you made!
->>>>>>> 92dd2cc48c481d1d30845888dc5a4690c72f1634
-# brick-breaker-game
-# brick-breaker-game
+
+Feel free to use this code for personal use. For commercial use please contact niyathic.
